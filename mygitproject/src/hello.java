@@ -6,6 +6,7 @@ public class hello {
 	}
 	public void add () {
 		System.out.println("Add method");
+		System.out.println("hiii!!");
 	}
 	
 	
