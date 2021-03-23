@@ -4,6 +4,9 @@ public class hello {
 		System.out.println("Hello World");
 		System.out.println("hiii!!");
 	}
+	public void add () {
+		System.out.println("Add method");
+	}
 	
 	
 
