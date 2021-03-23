@@ -5,6 +5,7 @@ public class hello {
 	}
 	public void add () {
 		System.out.println("Add method");
+		System.out.println("eclipse 1 added this line");
 	}
 	
 	
